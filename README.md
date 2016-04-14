@@ -1,4 +1,4 @@
-flux boilerplate using webpack
+redux boilerplate using webpack
 
 ## Usage
 ```
